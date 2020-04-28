@@ -1,2 +1,3 @@
-# Bahrain
-This project is related to topic analysis for tweets in Bahrain. 
+# Topic-modelling
+Basic Topic modeling in Arabic and English.
+The Arabic Topic modeling was done on twitter text data.
